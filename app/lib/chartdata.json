@@ -1,0 +1,42 @@
+[
+    {
+        "month": "Jan",
+        "revenue": 2100
+      },
+      {
+        "month": "Feb",
+        "revenue": 5100
+      },
+      {
+        "month": "March",
+        "revenue": 6100
+      },
+      {
+        "month": "Apr",
+        "revenue": 3100
+      },
+      {
+        "month": "May",
+        "revenue": 5980
+      },
+      {
+        "month": "Jun",
+        "revenue": 2100
+      },
+      {
+        "month": "Jul",
+        "revenue": 5100
+      },
+      {
+        "month": "Aug",
+        "revenue": 6100
+      },
+      {
+        "month": "Sep",
+        "revenue": 3100
+      },
+      {
+        "month": "Oct",
+        "revenue": 5980
+      }
+]
