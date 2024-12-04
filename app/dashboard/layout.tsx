@@ -8,9 +8,14 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         <SideNav />
       </div>
       
-      <div className="flex-grow p-1 md:overflow-y-auto md:p-1">
-        <Header/>
-        {children}</div>
+      <div className="flex-grow flex-row md:overflow-y-auto md:p-0">
+        <div className='md:h-13'>
+          <Header/>
+        </div>
+      <div className='mr-2'>
+        {children}
+      </div>
+      </div>
     </div>
   );
 }
